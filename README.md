@@ -32,6 +32,8 @@
 
 - [Loot](https://etherscan.io/address/0xff9c1b15b16263c61d017ee9f65c50e4ae0113d7#code) contract code
 
+- [Loot Rinkeby](https://rinkeby.etherscan.io/address/0x79e2d470f950f2cf78eef41720e8ff2cf4b3cd78) testnet contract
+
 - [LootComponents](https://etherscan.io/address/0x3eb43b1545a360d1D065CB7539339363dFD445F3#code) utility contract that returns item components (e.g. item, suffix, name, augmentation) as an array of numeric attributes so that other contracts can more easily work with loot properties
 
 - [dhof-loot](https://github.com/Anish-Agnihotri/dhof-loot) is a repository containing all bags, item occurences, bag rarity, and images by @anish-agnihotri and @ktasbas
