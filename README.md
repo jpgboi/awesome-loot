@@ -8,7 +8,7 @@
 
 - [Etherscan](https://etherscan.io/address/0xff9c1b15b16263c61d017ee9f65c50e4ae0113d7)
 
-- [Website](https://www.lootrng.com/) by @Anish-Agnihotri (Anish-Agnihotri/lootrng.com)
+- [Website](https://www.lootrng.com/) (https://github.com/Anish-Agnihotri/lootrng.com/)
 
 # 📚 Resources
 
