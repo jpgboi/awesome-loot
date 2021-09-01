@@ -1,3 +1,5 @@
+_Things are moving too fast to follow. For more up to date info check out the [Directory](https://discord.com/channels/880899217973968917/882251272877649930/882252078444060802) in the Loot [Discord](https://t.co/MuDVGCeYKo?amp=1)._
+
 # 🔗 Links
 
 - [Twitter](https://twitter.com/lootproject)
