@@ -20,6 +20,8 @@ _Things are moving too fast to follow. For more up to date info check out the [D
 
 - [Loot Character](https://www.lootcharacter.com/) is a site for generating a character based on your loot by @jomessin#9733
 
+- [LootTools](https://lootnft.tools/) is a site to help loot holders claim airdrops. 
+
 # 👥 Community Projects
 
 - [Abstract Loot](https://twitter.com/Abstract_Loot) is the first generated NFT project designed from Loot metadatas
